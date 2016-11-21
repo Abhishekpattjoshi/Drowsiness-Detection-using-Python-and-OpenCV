@@ -1,0 +1,6 @@
+{
+  "name": "Drowsiness-detection-using-python-and-opencv",
+  "tagline": "A project on Drowsiness detection : Counts the number of blinks in a particular time window, if it exceeds the pre-set limit, a buzzer (Windows Beep Sound) goes off.",
+  "body": "#Drowsiness detection\r\n---\r\n##Dependencies:\r\n1. Python 2.x\r\n2. OpenCV.\r\n\r\n####I did most of the work on WinPython virtual environment.\r\n\r\n####If you find any difficulty, feel free to mail me.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
